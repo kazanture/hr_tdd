@@ -1,4 +1,5 @@
 """
+https://leetcode.com/problems/zigzag-conversion/submissions/
 The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 
 P   A   H   N
@@ -10,6 +11,8 @@ Write the code that will take a string and make this conversion given a number o
 
 string convert(string s, int numRows);
 """
+
+
 class ZigZagConversion:
     def convert(self, input_str, num_rows):
         row = 0
