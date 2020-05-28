@@ -1,5 +1,6 @@
 import pytest
-from sandbox.string_to_integer import StringToInteger
+from leetcode_tdd.string_to_integer import StringToInteger
+
 
 class TestStringToInteger:
 

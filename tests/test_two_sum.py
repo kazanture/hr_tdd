@@ -1,5 +1,6 @@
 import pytest
-from sandbox.two_sum import  TwoSum
+from leetcode_tdd.two_sum import TwoSum
+
 
 class TestTwoSum:
 

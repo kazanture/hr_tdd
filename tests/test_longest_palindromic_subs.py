@@ -2,6 +2,7 @@ import pytest
 
 from leetcode_tdd.longest_palindromic_subs import LongestPalindromicSubs
 
+
 class TestLongestPalindromicSubs:
 
 

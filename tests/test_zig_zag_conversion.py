@@ -1,5 +1,7 @@
 import pytest
 from leetcode_tdd.zig_zag_conversion import ZigZagConversion
+
+
 class TestZigZagConversion:
     @pytest.mark.parametrize("input_str, num_rows, expected", [
         ("PAYPALISHIRING", 3, "PAHNAPLSIIGYIR"),

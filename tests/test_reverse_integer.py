@@ -1,5 +1,5 @@
 import pytest
-from sandbox.reverse_integer import ReverseInteger
+from leetcode_tdd.reverse_integer import ReverseInteger
 
 
 class TestReverseInteger:
